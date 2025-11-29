@@ -1,4 +1,4 @@
-#  Portafolio Web — Danna María
+#  Portafolio Web — Danna Pedraza Estrada
 
 Portafolio profesional creado en Angular para mostrar proyectos, experiencia, habilidades y contacto.
 
